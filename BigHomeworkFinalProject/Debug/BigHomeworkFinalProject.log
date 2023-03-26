@@ -1,0 +1,37 @@
+﻿  Main.cpp
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\BigHomeworkFinalProject\Picture.h(15,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\BigHomeworkFinalProject\Picture.h(16,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\BigHomeworkFinalProject\Picture.h(17,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Head.h(58,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Head.h(59,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,16): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,16): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,36): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,36): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,46): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(8,46): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(9,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(9,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(588,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(588,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(637,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(637,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(642,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(642,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(652,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(652,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(658,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(658,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(665,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(665,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(671,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(671,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(697,143): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(697,114): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(697,85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(697,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(701,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Main.cpp(701,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  BigHomeworkFinalProject.vcxproj -> C:\Users\ylgu\source\repos\BigHomeworkFinalProject\Debug\BigHomeworkFinalProject.exe
